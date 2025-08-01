@@ -3,7 +3,7 @@
 
 Hack 1: Enviar un commit al repositorio remoto
 
-https://git@github.com:QWERTYUIOPASDFGHJKL17/git_h_1.git
+https://github.com/QWERTYUIOPASDFGHJKL17/git_h_1.git
 
 Hack 2: Enviar un directorio vacio al repositorio remoto
 
